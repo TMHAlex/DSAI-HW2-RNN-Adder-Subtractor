@@ -9,6 +9,7 @@
 ***Report Part***
 
 ○ Analyze the results under different number of digits, training epoch, training size, etc
+
 ○ Can we apply the same training approach for multiplication?
 
 
