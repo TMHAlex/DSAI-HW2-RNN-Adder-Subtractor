@@ -1,11 +1,13 @@
 # DSAI-HW2-RNN-Adder-Subtractor
 
 ***Coding Part***
+
 1. Adder (A,B: 3 digits)
 2. Subtractor (A-B, A>=B)
 3. Combine adder and subtractor
 
 ***Report Part***
+
 ○ Analyze the results under different number of digits, training epoch, training size, etc
 ○ Can we apply the same training approach for multiplication?
 
